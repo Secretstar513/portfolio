@@ -76,7 +76,7 @@ export default function Navbar() {
       </ul>
       <div className={click ? "social-links active" : "social-links"}>
         <a
-          href="https://www.linkedin.com/in/duane-m-schoultz-755bb92bb"
+          href="https://www.linkedin.com/in/duane-m-schoultz"
           target="_blank"
           rel="noopener noreferrer"
         >

@@ -15,7 +15,7 @@ export default function HomeBanner({id}) {
               <ul className="dynamicTitle">
                 <li><span>Develoepr</span></li>
               </ul>
-              <a className='btn' href="https://www.linkedin.com/in/duane-m-schoultz-755bb92bb" target="_blank" rel="noopener noreferrer">Hire Me</a>
+              <a className='btn' href="https://www.linkedin.com/in/duane-m-schoultz" target="_blank" rel="noopener noreferrer">Hire Me</a>
             </div>
         </div>
         <div className="mask">
